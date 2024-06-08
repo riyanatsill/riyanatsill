@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic passionate about Frontend Development.
 
+## Github Status
+</a><br/>
+<a href="https://github.com/aryaelmahdi">
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyanatsill&theme=aura"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyanatsill&theme=aura"/>
+</a><br/>
+
 ## 🛠️ Skills
 
 ### Languages
