@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic passion
 <a href="https://github.com/riyanatsill">
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyanatsill&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyanatsill&theme=aura"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanatsill&layout=compact&theme=radical" />
 </p>
 
 ## 🛠️ Skills
