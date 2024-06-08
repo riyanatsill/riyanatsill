@@ -7,32 +7,8 @@ Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic passion
 <a href="https://github.com/riyanatsill">
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyanatsill&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyanatsill&theme=aura"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanatsill&layout=compact&theme=radical" />
 </a><br/>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riyanatsill&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyanatsill&theme=radical)
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyanatsill&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api?username=riyanatsill&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyanatsill&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyanatsill&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyanatsill&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanatsill&layout=compact&theme=radical" />
-  </a>
-</p>
-
-
 
 ## 🛠️ Skills
 
