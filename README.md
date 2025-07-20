@@ -1,6 +1,6 @@
 # Hi there, I'm Muhamad Atsil Rifqi Riyansyah 👋
 
-Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic passionate about Frontend Development.
+Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic passionate about Frontend Development, Backend Development, and AI Engineer.
 
 ## Github Stats
 <p align="center">
